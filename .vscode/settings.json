@@ -1,0 +1,4 @@
+{
+    "clojureVSCode.autoStartNRepl": true,
+    "clojureVSCode.cljfmtParameters": ""
+}
